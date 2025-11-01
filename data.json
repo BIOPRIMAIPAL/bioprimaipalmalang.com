@@ -1,0 +1,25 @@
+{
+  "perusahaan": {
+    "nama": "CV Prima Mahardika (BioPrima)",
+    "alamat": "Puri Kartika Asri, Malang",
+    "telepon": "0899-717-3518",
+    "sertifikasi": ["ISO 9001:2016", "ISO 14001:2016", "ISO 49001:2018"]
+  },
+  "produk": [
+    {
+      "nama": "IPAL Paket Lengkap MBG",
+      "deskripsi": "IPAL sesuai standar DLH dan ketentuan pemerintah. Cocok untuk program MBG.",
+      "gambar": "img/iklan-ipal-mbg-2025.jpg"
+    },
+    {
+      "nama": "IPAL Dapur Modular",
+      "deskripsi": "Desain modular, efisien, dan mudah dirawat. Mengurangi bau dan lemak di saluran.",
+      "gambar": "img/gambar-iklan-ipal-slide-5.jpg"
+    },
+    {
+      "nama": "BioPrima IPAL",
+      "deskripsi": "IPAL modern dengan efisiensi energi tinggi dan mudah perawatan.",
+      "gambar": "img/iklan-ipal-gama-2.jpg"
+    }
+  ]
+}
